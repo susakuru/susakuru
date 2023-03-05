@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🔭 I’m currently working on Auto do something
-- 🌱 I’m currently learning Phython
+- 🌱 I’m currently learning Python
 - 👯 I’m looking to collaborate on GOTO
 - 💬 Ask me about anything
 - 📫 How to reach me: rururaaa@gmail.com
